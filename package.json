@@ -1,0 +1,13 @@
+{
+  "name": "request-error",
+  "description": "Reproduces error in mikeal request module",
+  "version": "0.1.0",
+  "main": "pipe-error.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [],
+  "dependencies": {
+    "request": "2.34.0"
+  }
+}
